@@ -5,7 +5,7 @@ auto: true
 rdiscount:
   extensions: [smart]
 title : Carlos Becker
-baseurl: /vrsummit.org
+base-url: /vrsummit.org
 url: [http://communityinclusion.github.com/vrsummit.org/]
 production_url : http://caarlos0.github.com
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
