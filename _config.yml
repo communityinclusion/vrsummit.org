@@ -1,6 +1,0 @@
-    production_url : http://communityinclusion.github.com/vrsummit.org/
-    safe: true
-    source: .
-    destination: ./_site
-    lsi: false
-    pygments: true
