@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VRSUMMIT.ORG
+title: SCHEDULE
 ---
 
 # SCHEDULE
