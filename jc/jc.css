@@ -24,4 +24,17 @@ box-shadow: 3px 3px 4px #000;
 background-color: white;
 }
 
-.sidebar-nav a {color:#7b6f79; font-weight: bolder; text-align:right;}
+.sidebar-nav li a {color:#7b6f79; font-size: 1.4em; font-weight: bolder; text-align:right;}
+
+.jc_row {border-bottom: 1em #f8a691 solid;}
+
+#jc_hotel{text-align:right; background:#bcb4ba; padding-right: 1em; padding-bottom: 1em;}
+#jc_hotel h3{color:white;}
+#jc_hotel a{color:#7b6f79;}
+
+
+#jc_pic_right{float:right; display: block; padding-left: 2em; max-width:300px;}
+#jc_pull {padding:1em; margin:1em; float:top; color:white; 
+   background: rgb(200, 54, 54); /* The Fallback */
+   background: rgba(200, 54, 54, 0.8); }
+#jc_pull p {text-align: right;}
