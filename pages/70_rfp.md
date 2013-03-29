@@ -3,7 +3,7 @@ layout: default
 title: Request for Papers
 ---
 #Request for Papers
-##Deadline: Midnight Eastern US Time Friday, April 26, 2013
+##Deadline: Midnight Eastern US Time Friday, May 31st, 2013
 
 The Planning Team for the 6th Annual Summit on VR Program Evaluation & Quality Assurance invites you to submit a proposal to present at this year’s Summit. The 6th annual summit will be held Monday and Tuesday, September 16 and 17, at the Omni Providence Hotel, in downtown Providence, Rhode Island. 
 
