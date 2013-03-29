@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VRSUMMIT.ORG
+published: false
 ---
 
 <div id="jc_pic_right"><img src="/img/providence_skyline_jc.jpg" alt="providence skyline" />
@@ -18,7 +19,7 @@ conference attendees”</b></em></blockquote>
 
 
 
-#WELCOME!
+#WELCOME
 
 <div class="alert">The 6th Annual Summit <strong>Request for Papers</strong> is now open. <a href="pages/70_rfp.html"><button type="button" class="btn"> Submit your proposal</button></a>
 </div>
