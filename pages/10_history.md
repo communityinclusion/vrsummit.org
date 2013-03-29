@@ -3,7 +3,7 @@ layout: default
 title: History
 ---
 
-#SUMMIT HISTORY!
+#SUMMIT HISTORY
 In 2007, the Utah State Office of Rehabilitation started contacting states to learn about each state’s best practices in program evaluation and quality assurance. These calls generally lasted about an hour and a half during which Utah shared their own activities in regards to their consumer satisfaction survey, comprehensive statewide needs assessment, case file review activities and client focus groups and to give the other state the opportunity to share what they do with these program evaluation activities as well. These conversations turned out to be an excellent form of continuing education.
 
 One of the standard questions that frequently came up during these conversations was, “What resources or training do you turn to when you are developing a new or revised tool in quality assurance?" A common response was that evaluators did what their predecessors did without any changes. Another common response was that they would develop the tool themselves internally with assistance from state agency administrators who likely had a limited knowledge of program evaluation practices and methodology. The most common response was a long pause.
