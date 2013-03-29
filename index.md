@@ -2,6 +2,7 @@
 layout: default
 title: VRSUMMIT.ORG
 ---
+
 <div id="jc_pic_right"><img src="/img/providence_skyline_jc.jpg" alt="providence skyline" />
 <div id="jc_pull">
 	<blockquote><em><b>“I was literally floored by the 
@@ -17,7 +18,7 @@ conference attendees”</b></em></blockquote>
 
 
 
-#WELCOME
+#WELCOME!
 
 <div class="alert">The 6th Annual Summit <strong>Request for Papers</strong> is now open. <a href="pages/70_rfp.html"><button type="button" class="btn"> Submit your proposal</button></a>
 </div>
@@ -31,4 +32,4 @@ This year, VR organizations from greater New England, including The Institute fo
 
 Throughout the spring and summer of 2013, check back for more information on summit highlights and schedule, as well as other useful information. We look forward to seeing you this fall!
 
-*The 2013 Summit Planning Committee*   
+*The 2013 Summit Planning Committee*
