@@ -33,4 +33,8 @@ This year, VR organizations from greater New England, including The Institute fo
 
 Throughout the spring and summer of 2013, check back for more information on summit highlights and schedule, as well as other useful information. We look forward to seeing you this fall!
 
+<p><strong><a href="files/VRSummit6_attendee_info.pdf">VR Summit Attendee Information</a></strong></p>
+
+**[Save the Date](Summit6_Save_the_Date.pdf)**
+
 *The 2013 Summit Planning Committee*
