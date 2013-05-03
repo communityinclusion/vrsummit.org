@@ -10,6 +10,8 @@ Support, present at, and attend the 6th Annual Summit on Vocational Rehabilitati
 [Invitation to Sponsor VR Summit](files/6th_Annual_Summit_PR_Flyer.pdf)
 
 #### 2013 Summit Sponsors:
+[The Summit Group](http://www.vocational-rehab.com)
+
 [The Institute for Community Inclusion](http://www.communityinclusion.org)  
 [Research and Technical Assistance Center (RTAC) on Vocational Rehabilitation Program Management](http://www.vr-rtac.org)
 
