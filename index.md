@@ -21,8 +21,8 @@ conference attendees”</b></em></blockquote>
 
 #WELCOME
 
-<div class="alert">The 6th Annual Summit Request for Papers is now open. <a href="pages/70_rfp.html"><strong>Submit your proposal</strong></a>
-</div>
+<!--<div class="alert">The 6th Annual Summit Request for Papers is now open. <a href="pages/70_rfp.html"><strong>Submit your proposal</strong></a>
+</div>-->
 Welcome to the 6th Annual Summit on Vocational Rehabilitation Program Evaluation & Quality Assurance. This year’s summit will continue the tradition of excellence and collaboration established over the past five years, as well as deliver new ideas from across the vocational rehabilitation field by offering opportunities to:
 
 * Learn about promising practices from recognized experts in program evaluation and quality assurance
