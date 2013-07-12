@@ -1,8 +1,25 @@
 ---
 layout: default
-title: REGISTRATION
+title: Registration
 ---
-# REGISTRATION
-Check back soon! Registration for the 6th Annual Summit will open early summer 2013.
+<h2>{{page.title}}</h2>
+<div id="wufoo-s7w7r7">
+Fill out my <a href="http://iciwebs.wufoo.com/forms/s7w7r7">online form</a>.
+</div>
+<script type="text/javascript">var s7w7r7;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'iciwebs', 
+'formHash':'s7w7r7', 
+'autoResize':true,
+'height':'586',
+'async':true,
+'header':'show', 
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { s7w7r7 = new WufooForm();s7w7r7.initialize(options);s7w7r7.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
 
-Registration for the 6th Annual Summit is free to all participants, however travel and accommodations are not covered. The 2013 Summit Planning Committee welcomes public and private event sponsorships. For more information on becoming a sponsor, please contact Mary Ann Bedick at <mabedick@assumption.edu>. 
+<p><strong>Not seeing a form, or having issues completing it? <a href="https://iciwebs.wufoo.com/forms/6th-annual-summit-vocational-rehabilitation/">Use this version instead</a></strong></p>
