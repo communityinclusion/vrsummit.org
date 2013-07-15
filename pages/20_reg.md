@@ -3,6 +3,7 @@ layout: default
 title: Registration
 ---
 <h2>{{page.title}}</h2>
+<div class="alert alert-block"><p><strong>This is a well attended event. We encourage you to register in advance, as we cannot guarantee space for on-site registrants.</strong></p></div>
 <div id="wufoo-s7w7r7">
 Fill out my <a href="http://iciwebs.wufoo.com/forms/s7w7r7">online form</a>.
 </div>
