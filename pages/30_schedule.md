@@ -49,7 +49,7 @@ Session Recording-->
 
 **Changing Business Practices for Client Engagement**  
 Tuesday, Sept. 17, 2013, 10:00-11:30  
-Presenters: Sarah Chapin; Mark Shultz; Brigid Griffin  
+Presenters: Sarah Chapin; Mark Schultz; Brigid Griffin  
 <!--Resource Links  
 PowerPoint Slides  
 Accessible Slide Content  
@@ -61,7 +61,15 @@ Presenters: Bert Schulte; Kathy Kelly LPC, M.Ed.
 <!--Resource Links  
 PowerPoint Slides  
 Accessible Slide Content  
-Session Recording-->  
+Session Recording--> 
+
+**Creativity, Measurement and Messaging: Making Promising into Reality**  
+Monday, Sept. 16, 2013, 8:45-10:15  
+Keynote: David Wittenburg, PhD**  
+<!--Resource Links  
+PowerPoint Slides  
+Accessible Slide Content  
+Session Recording--> 
 
 **Data Driven Management: Virginia's Experience**  
 Monday, Sept. 16, 2013, 3:15-4:45  
@@ -79,13 +87,7 @@ PowerPoint Slides
 Accessible Slide Content  
 Session Recording-->  
 
-**Creativity, Measurement and Messaging: Making Promising into Reality  
-Monday, Sept. 16, 2013, 8:45-10:15  
-Keynote: David Wittenburg, PhD**  
-<!--Resource Links  
-PowerPoint Slides  
-Accessible Slide Content  
-Session Recording-->
+
 
 **Electronic Case Reviews and Consumer Surveys**  
 Monday, Sept. 16, 2013, 1:30-3:00  
@@ -96,6 +98,10 @@ Accessible Slide Content
 Session Recording-->  
 
 **Estimating ROI for State VR Programs**  
+Monday, Sept. 16, 2013, 1:30-3:00  
+Presenters:  David Dean, Ph.D.; Kirsten Rowe, Ph.D.
+
+**Ethical Data: Looking at What It Is and How We Use It**  
 Monday, Sept. 16, 2013, 1:30-3:00  
 Presenters: HarrietAnn Litwin, M.Ed, CRC; Darlene Groomes, Ph.D, CRC, LPC; Kathe Matrone  
 <!--Resource Links  
