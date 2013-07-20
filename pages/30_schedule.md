@@ -98,7 +98,7 @@ Accessible Slide Content
 Session Recording-->  
 
 **Estimating ROI for State VR Programs**  
-Monday, Sept. 16, 2013, 1:30-3:00  
+Monday, Sept. 16, 2013, 3:15 – 4:45  
 Presenters:  David Dean, Ph.D.; Kirsten Rowe, Ph.D.
 
 **Ethical Data: Looking at What It Is and How We Use It**  
