@@ -24,8 +24,8 @@ Summit participants are encouraged to arrive Sunday night.  Register and reserve
 * 7:00 AM to 8:00 AM: Registration & Exhibits  
 * 8:00 AM to 9:45 AM: Welcome & Morning Keynote  
 * 10:00 AM to 11:30 AM: Concurrent Sessions   
-* 11:45 AM – 12:45 PM (Roundtable)
-* 1:00 – 2:30 (Panel & Closing)  
+* 11:45 AM – 12:45 PM Round-table Discussions & Box Lunch
+* 1:00 – 2:30 VR Directors Panel & Closing Remarks  
 
 To learn more about keynote addresses and select sessions, see [Highlights](http://vrsummit.org/pages/40_highlights.html). 
 
