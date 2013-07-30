@@ -191,7 +191,7 @@ Session Recording-->
 
 **Using Six Sigma Methodology to Improve Travel Requests**  
 Monday, Sept. 16, 2013, 10:30-12:00  
-Presenter: Lyunda Polyun  
+Presenter: Lyuda Polyun  
 <!--Resource Links  
 PowerPoint Slides  
 Accessible Slide Content  
