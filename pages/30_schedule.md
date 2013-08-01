@@ -127,7 +127,7 @@ Session Recording-->
 
 **Indicators of Quality for Customers Focus: A 5-Why**  
 Monday, Sept. 16, 2013, 3:15-4:45  
-Presenters: Darlene Groomes, Ph.D, CRC, LPC; John Stem; Kara Land, M.S., CRC; Victoria A. Drake, MS, CRC, ASQ-CQA; Jennifer L. Beike, M.S., CRC; Jacqualine Geib; Rosie Theirer; Louis Adams; Kimberley Peck; Sue Page; Marlene Malloy; Theresa Hamrick  
+Presenters: Darlene Groomes, Ph.D, CRC, LPC; John Stem; Kara Land, M.S., CRC; Jennifer L. Beike, M.S., CRC; Jacqualine Geib; Kimberley Peck;   
 <!--Resource Links  
 PowerPoint Slides  
 Accessible Slide Content  
@@ -175,7 +175,7 @@ Session Recording-->
 
 **Promising and Emerging Practices for Youth**  
 Monday, Sept. 16, 2013, 10:30-12:00  
-Presenters: Sukyeong Pu, PhD; Tom Jones; Trent Landon, MA; Chung-Lung Lee; Jinhee Park; Marwa Alsaman  
+Presenters: Sukyeong Pi, PhD;  Trent Landon, MA; Chung-Lung Lee; Jinhee Park; Marwa Alsaman  
 <!--Resource Links  
 PowerPoint Slides  
 Accessible Slide Content  
