@@ -3,17 +3,27 @@ layout: default
 title: SPONSORS
 ---
 #SPONSORS
-Support, present at, and attend the 6th Annual Summit on Vocational Rehabilitation Program Evaluation & Quality Assurance. Become part of a community of VR professionals committed to sharing promising practices in program evaluation that will further the effectiveness of the VR system and assure quality services for individuals with disabilities. Each year the practices disseminated during the Summit help strengthen VR systems across the country. Now we ask for your help to continue these efforts! The planning team seeks sponsors and exhibitors for this summit. Sponsorships can include networking events, keynote speakers, and exhibit tables. If you or someone you know is interested in sponsoring an event at the 6th Annual Summit, please contact Mary Ann Bedick at <mabedick@assumption.edu>.
+###Brought to you by:  
+[The Rehabilitation Technical Assistance Center (RTAC)
+on VR Program Management](http://www.vr-rtac.org)
 
-[VR Summit Sponsor Information](files/VRSummit6_sponsor_info.pdf)
+####In partnership with:
+[The Institute for Community Inclusion
+at the University of Massachusetts Boston](http://www.communityinclusion.org)  
 
-[Invitation to Sponsor VR Summit](files/6th_Annual_Summit_PR_Flyer.pdf)
+[State of Rhode Island Office of Rehabilitation Services](http://www.ors.ri.gov)
 
-#### 2013 Summit Sponsors:
-[The Summit Group](http://www.vocational-rehab.com)
+[New England TACE (1) at ICI/UMass Boston and Assumption College](http://www.tacene.org)
 
-[The Institute for Community Inclusion](http://www.communityinclusion.org)  
-[Research and Technical Assistance Center (RTAC) on Vocational Rehabilitation Program Management](http://www.vr-rtac.org)
+[The University of Buffalo, Center for Rehabilitation Synergy (TACE 2)](http://crs.buffalo.edu/index.php/region2tace/home/)
 
-[New England TACE Center (Region 1)](http://www.tacene.org)  
-[Region 2 TACE Center](http://crs.buffalo.edu/index.php/region2tace/home/)
+[Paul V. Sherlock Center on Disabilities, Rhode Island College](http://www.ric.edu/sherlockcenter/)
+
+Summit Navigators Group
+
+[The Summit Group](http://vocational-rehab.com/about-us/)
+
+[Rehabilitation Program Evaluation Network (RPEN)](http://www.nationalrehab.org/cwt/external/wcpages/divisions/RPEN.aspx)
+
+The summit is funded by grants from the US Department of Education. Neither the summit nor the content of the summit necessarily represents the policy of the Department of Education, and you should not assume endorsement by the Federal Government. The summit was not hosted by the US
+Department of Education.

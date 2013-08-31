@@ -6,6 +6,7 @@ title: SCHEDULE
 # SCHEDULE
 
 Summit participants are encouraged to arrive Sunday night.  Register and reserve your hotel room as soon as possible to ensure your place at the 6th Annual Conference. 
+
 **Sunday, September 15, 2013**  
 
 * 3:00 PM to 6:00 PM: Registration & Welcome Activities  
@@ -219,9 +220,6 @@ The DOR 2013-2018 Strategic Plan Goal #1 Goal is to increase our current base of
 
 **Electronic Case Reviews and Consumer Surveys | Presented by Janet Cool**  
 Ohio VR developed a quality assurance software application that has been identified as part of an emerging practice by RSA. The application, known as VRQA, interfaces with the AWARE case management system and is utilized by Program Integrity and Evaluation staff to identify statewide patterns and trends in both the quality and compliance of case documentation. VRQA data is reported to stakeholders through VIS/Tableau reports and dashboard reports summarizing case review and consumer survey results.
-
-**Ensuring Accessibility--A Critical Component of QA | Presented by Joshua Howe**  
-Accessibility serves rehabilitation agencies staff and constituents by ensuring equal access to information and services, but it has additional benefits beyond this such as flexibility and efficiency. Presenters will share the arguments for accessibility as part of the QA process. Presenters will share Maine’s process, as well as tips and resources for implementing accessibility and pitfalls to avoid.
 
 **Methodologies to Conduct a Needs Assessment | Presented by Janet Cool**  
 This poster will provide an overview of Ohio’s 2012 Vocational Rehabilitation Comprehensive Statewide Needs Assessment (CSNA) which was a joint effort between Ohio Rehabilitation Services Commission (RSC) and The Ohio State University. Methodology to identify prevalence rates, projections of individuals with disabilities, penetration rates, and the concept of relative proportionality will be covered as well as the ongoing operational use of the CSNA findings.
