@@ -21,7 +21,7 @@ conference attendees”</b></em></blockquote>
 
 #WELCOME
 
-<div class="alert alert-success" style="max-width:350px;"><p><strong>The 6th Annual Summit registration is now open!</strong> <br /><a class="btn btn-info" href="pages/20_reg.html"><strong>Register Now</strong></a></p>
+<div class="alert alert-error" style="max-width:350px;"><p><strong>The 6th Annual Summit registration is now closed.</strong></p>
 </div>
 Welcome to the 6th Annual Summit on Vocational Rehabilitation Program Evaluation & Quality Assurance. This year’s summit will continue the tradition of excellence and collaboration established over the past five years, as well as deliver new ideas from across the vocational rehabilitation field by offering opportunities to:
 
