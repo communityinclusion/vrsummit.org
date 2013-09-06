@@ -5,8 +5,12 @@ title: Highlights
 
 #HIGHTLIGHTS
 ##### MONDAY MORNING KEYNOTE | DAVID WITTENBURG
+
 **Creativity, Measurement & Messaging:
 Moving Towards Stronger Practices**  
+
+[download the presentation](/assets/KEYNOTE_Creativity_Measurement_and_Knowledge.pptx)
+
 Although promoting employment of people
 with disabilities remains a major priority among
 policymakers and practitioners, there is a dearth
@@ -29,9 +33,14 @@ and, ultimately, policies.
 
 David Wittenburg is a senior researcher in the Center for Studying Disability Policy and an associate director in the health division at Mathematica Policy Research. He has directed projects that examine interventions to promote employment among people with disabilities. He has published reports, journal articles, and policy briefs for the Social Security Administration and the U.S. Department of Education on employment initiatives for people with disabilities and has a specific interest in interventions for transition-age youth. Wittenburg has also written extensively and testified before Congress on the challenges facing youth who receive Supplemental Security Income in transitioning to independence. He joined Mathematica in August 2005. He holds a Ph.D.
 in economics from Syracuse University.
+
 #####TUESDAY MORNING KEYNOTE | STEVE DICKINSON  
+
 **People, Tools & Processes:
 The Secrets to Excellence in Service**  
+
+[download the presentation](/assets/KEYNOTE_People_Tools_and_Processes.ppt)
+
 In a vocational
 rehabilitation world
 driven by numeric
@@ -45,7 +54,7 @@ achieved in the real
 world. He will explore
 how management can
 propel excellence by refining formal practices, linking
-measurements to customer needs, and “just do it”
+measurements to customer needs, and "just do it"
 actions.  
 
 Tools and processes will then be paired with how
@@ -73,11 +82,15 @@ Turnaround,. He is a graduate of Ohio University
 with a B.S. degree in Industrial Technology, a certified
 Application Expert in Quality Tools and Techniques
 and a Six-Sigma Master Black Belt.
+
 ######MONDAY EVENING | PEQA ACADEMY
+
 **Posters & Exhibits**  
 An early evening PE/QA Academy will provide an opportunity for attendees to hear from national leaders as
 well as to speak with poster presenters and exhibitors from across the field.  
+
 *Posters include:*  
+
 **SuRGE: An Engine for Emergent Knowledge in VR Performance | Presented by Andrew Clemons**  
 An interactive display explors the history, development, and future-scape of the Summit Reading Groups for
 Excellence (SuRGE), a professional learning community.  
@@ -88,8 +101,11 @@ collaborative approach to implement VR service delivery processes.
 
 Learn more about Posters in [Schedule](http://vrsummit.org/pages/30_schedule.html).
 
-######TUESDAY LUNCH | CHAT & CHEW
+#####TUESDAY LUNCH | CHAT & CHEW
+[List of Chat & Chew Table Topics](/assets/Chat_Chew_TableList.pdf) (downloadable PDF)
+
 **Round Table Discussion Groups**  
+
 Attendees may sign up for a topic at the registration table on Sunday and
 Monday. Seating is limited, and will be determined by a first-come first-serve basis.
 Each round table will have a facilitator who will ask the group a series of questions to stimulate conversation.
