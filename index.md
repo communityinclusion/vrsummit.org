@@ -22,8 +22,10 @@ conference attendees”</b></em></blockquote>
 #WELCOME
 
 <div class="alert alert-info" style="max-width:350px;">
-<h4>Download the summit program</h4>
-<a href="/assets/6th_Annual_VR_Summit_Program.pdf"><img src="/assets/6th_Annual_VR_Summit_Program_.png" alt="summit program cover" /></a>
+<h4>Download the summit program (pdf)</h4>
+<p><a href="/assets/6th_Annual_VR_Summit_Program.pdf"><img src="/assets/6th_Annual_VR_Summit_Program_.png" alt="summit program cover" /></a></p>
+<p><a href="/assets/6th_Annual_Summit_Program_TEXT.docx">Text-only version</a></p>
+
 </div>
 Welcome to the 6th Annual Summit on Vocational Rehabilitation Program Evaluation & Quality Assurance. This year’s summit will continue the tradition of excellence and collaboration established over the past five years, as well as deliver new ideas from across the vocational rehabilitation field by offering opportunities to:
 
