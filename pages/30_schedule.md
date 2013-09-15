@@ -227,7 +227,7 @@ This poster will provide an overview of Ohio’s 2012 Vocational Rehabilitation 
  
 **SuRGE: An Engine for Emergent Knowledge in VR Performance | Presented by Andrew Clemons** 
 
-[PowerPoint](assets/POSTER_Surge.ppt)
+[PowerPoint](/assets/POSTER_Surge.ppt)
 
 This poster will introduce attendees of the 6th Summit Conference to the Summit Reading Groups for Excellence (SuRGE). Through an interactive display, individuals will explore the history, development, and future-scape of this professional learning community. SuRGE strives, in part, to (1) offer information on the processes of vocational rehabilitation (VR) evaluation, quality improvement, and performance management; and (2) create conversations about innovative ways to face concerns or challenges for the improvement of state VR agencies.  
 
