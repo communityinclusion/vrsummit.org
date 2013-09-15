@@ -188,8 +188,8 @@ Presenters: Sukyeong Pi, PhD; Trent Landon, MA; Chung-Lung Lee; Jinhee Park; Mar
 Monday, Sept. 16, 2013, 3:15-4:45  
 Presenter: Jennifer Suleski  
 <!--Resource Links-->
-[PowerPoint](/assets/PP_Universal_Design_for_Evaluation.ppt)
-[Handout 1](/assets/HO_Universal_Design_for_Evaluation1.pdf)
+[PowerPoint](/assets/PP_Universal_Design_for_Evaluation.ppt)  
+[Handout 1](/assets/HO_Universal_Design_for_Evaluation1.pdf)  
 [Handout 2](/assets/HO_Universal_Design_for_Evaluation2.pdf)
 <!--Session Recording-->
 
@@ -205,7 +205,7 @@ Presenter: Lyuda Polyun
 Tuesday, Sept. 17, 2013, 9:45-11:15  
 Presenter: Jeff Renfro   
 <!--Resource Links-->
-[PowerPoint](/assets/PP_Vocational_Rehabilitation_ROI_in_Oregon.pdf)
+[PowerPoint](/assets/PP_Vocational_Rehabilitation_ROI_in_Oregon.pdf)    
 [Handout](assets/HO_Voc_Rehab_ROI_in_Oregon.pdf)
 <!--Session Recording-->
 
