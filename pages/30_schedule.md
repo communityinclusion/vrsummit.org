@@ -125,7 +125,7 @@ Presenters: Joshua Southwick, MRC, CRC; David Vandergoot, PhD
 Monday, Sept. 16, 2013, 1:30-3:00  
 Presenters: Jeff Coburn, Kartik Trivedi  
 <!--Resource Links-->
-<!--PowerPoint Slides -->
+[PowerPoint](/assets/PP_ExploreVR.ppt)
 <!--Handouts  -->
 <!--Session Recording-->
 
