@@ -45,6 +45,7 @@ Presenters: Todd Sink, PhD; Joseph Hampton; Douglas Snuffer; Pisnu Bau-Iam
 Monday, Sept. 16, 2013, 10:30-12:00  
 Presenter: Michael Quinn, M.H.S.
 <!--Resource Links--> 
+[Power Point](/assets/pp_business_intell.ppt)
 <!--PowerPoint Slides -->
 <!--Handouts  -->
 <!--Session Recording-->
