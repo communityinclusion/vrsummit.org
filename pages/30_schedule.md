@@ -82,7 +82,7 @@ Presenters: Bert Schulte; Kathy Kelly LPC, M.Ed.
 Monday, Sept. 16, 2013, 3:15-4:45  
 Presenter: Barbara Burkett, PhD., M.S.P.H.  
 <!--Resource Links-->
-<!--PowerPoint Slides -->
+[PowerPoint Slides](/assets/PP-Virginia-Data-Driven-Rhode-Island.ppt)
 <!--Handouts  -->
 <!--Session Recording-->
 
