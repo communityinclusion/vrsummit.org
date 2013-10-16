@@ -207,7 +207,7 @@ Tuesday, Sept. 17, 2013, 9:45-11:15
 Presenter: Jeff Renfro   
 <!--Resource Links-->
 [PowerPoint](/assets/PP_Vocational_Rehabilitation_ROI_in_Oregon.pdf)    
-[Handout](assets/HO_Voc_Rehab_ROI_in_Oregon.pdf)
+[Handout](/assets/HO_Voc_Rehab_ROI_in_Oregon.pdf)
 <!--Session Recording-->
 
 **VR Directors Panel  

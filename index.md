@@ -42,6 +42,6 @@ Throughout the spring and summer of 2013, check back for more information on sum
 
 <p><strong><a href="files/VRSummit6_attendee_info.pdf">VR Summit Attendee Information</a></strong></p>
 
-**[Save the Date](Summit6_Save_the_Date.pdf)**
+**[Save the Date](/files/Summit6_Save_the_Date.pdf)**
 
 *The 2013 Summit Planning Committee*
