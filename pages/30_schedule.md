@@ -31,6 +31,18 @@ Summit participants are encouraged to arrive Sunday night.  Register and reserve
 
 To learn more about keynote addresses and general sessions, visit [Highlights](http://vrsummit.org/pages/40_highlights.html). 
 
+<hr />
+##### MONDAY MORNING KEYNOTE | DAVID WITTENBURG
+**Creativity, Measurement & Messaging:
+Moving Towards Stronger Practices**  
+[download the presentation](/assets/KEYNOTE_Creativity_Measurement_and_Knowledge.pptx)
+
+#####TUESDAY MORNING KEYNOTE | STEVE DICKINSON  
+**People, Tools & Processes:
+The Secrets to Excellence in Service**  
+[download the presentation](/assets/KEYNOTE_People_Tools_and_Processes.ppt)
+<hr />
+
 ###Summit Sessions List
 
 **Beam us up DRS: Visualizing Employment Decisions**  
@@ -86,7 +98,7 @@ Presenters: Susan Stoddard, PhD, FAICP; Scott Sabella, PhD, CRC
 Monday, Sept. 16, 2013, 8:45-10:00  
 Keynote: David Wittenburg, PhD 
 <!--Resource Links-->
-<!--PowerPoint Slides -->
+[download the presentation](/assets/KEYNOTE_Creativity_Measurement_and_Knowledge.pptx)
 <!--Handouts  -->
 <!--Session Recording-->
 
@@ -157,7 +169,7 @@ Presenters: Chip Kenney, M.S.; Deborah Greene, M.S.
 Tuesday, Sept. 17, 2013, 8:15-9:30  
 Keynote: Steve Dickinson
 <!--Resource Links-->
-<!--PowerPoint Slides -->
+[download the presentation](/assets/KEYNOTE_People_Tools_and_Processes.ppt)
 <!--Handouts  -->
 <!--Session Recording-->
 
