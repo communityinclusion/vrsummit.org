@@ -4,6 +4,14 @@ title: Highlights
 ---
 
 #HIGHTLIGHTS
+
+<div class="alert alert-info" style="max-width:350px;">
+<h4>Download the collection of tweets posted to #vrsummit on twitter.com</h4>
+
+<br /><p><a class="btn btn-primary" href="/files/TwitterChat.doc">Download the transcript (MS WORD)</a></p>
+
+</div>
+
 ##### MONDAY MORNING KEYNOTE | DAVID WITTENBURG
 
 **Creativity, Measurement & Messaging:
